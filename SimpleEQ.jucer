@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="oVWrlJ" name="SimpleEQ" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="Tonecraft"
+              companyWebsite="www.tonecraft.de" companyEmail="info@tonecraft.de">
   <MAINGROUP id="hXQssZ" name="SimpleEQ">
     <GROUP id="{70EAF012-F7F0-748A-E726-0EF78C776E27}" name="Source">
       <FILE id="eXyo8a" name="PluginProcessor.cpp" compile="1" resource="0"
